@@ -14,5 +14,3 @@ Learn more about WebP at [here](https://developers.google.com/speed/webp).
 3. Place all the images in the `in` folder. 
 4. Run the `main.py` script.
 5. The WebP formated images will be generated in the `out` folder.
- 
-#### Read blog post: https://www.oxyzen.me/blogs/how-to-convert-image-to-webp-in-python
